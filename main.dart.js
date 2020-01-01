@@ -45832,7 +45832,7 @@ o=g.e
 o.toString
 i=g.a
 h=i.Q
-return T.a4M(K.eE(!1,M.a_(C.o5,D.ki(C.cz,new T.by(new V.V(e,q,e,q),i.z.Bu(a,t,i.r.a6.gc6()),f),h,!1,f,f,f,f,f,f,f,f,f,g.grC(),g.grE(),g.gPK(),f,f,f,f,f),f,f,f,f,j,f,f,f,k),o),u,new P.n(l,p),!1)},
+return T.a4M(K.eE(!1,M.a_(C.o4,D.ki(C.cz,new T.by(new V.V(e,q,e,q),i.z.Bu(a,t,i.r.a6.gc6()),f),h,!1,f,f,f,f,f,f,f,f,f,g.grC(),g.grE(),g.gPK(),f,f,f,f,f),f,f,f,f,j,f,f,f,k),o),u,new P.n(l,p),!1)},
 xI:function(a,b,c){var u=this.a.c
 if(u.a==u.b)return C.hr
 switch(a){case C.o:return b
@@ -46801,7 +46801,7 @@ if(u.a>u.b)t.e=!0
 else t.e=!1},
 H:function(a){var u,t=null,s="images/android_logo.png",r=this.e?500:250,q=[N.a2]
 r=T.ce(H.d([T.bP(new T.by(C.rF,B.Gy(H.d([new T.aM(r,t,t,t),new T.m2(s,"ViewModel with ViewModelProvider.Factory","Why and when we use ViewModelProvider.Factory for ViewModel.",C.ea,new T.P5(),t),new T.m2(s,"Motion Layout: Card Shuffle Animation","In this article you will find how motion layout is easy and cool by creating card shuffle animation.",C.ea,new T.P6(),t),new T.m2("images/flutter_icon.png","Flutter: Material + Cupertino make together","Run material widgets on Cupertino app or run cupertino widgets on Material App.",C.jA,new T.P7(),t)],q),C.l),t))],q),C.w,C.D,C.a7)
-u=T.ce(H.d([T.bP(new T.fz(!0,t,M.a_(t,t,t,t,S.co(t,t,t,t,T.Gl(C.o4,H.d([K.B(a,!1).z,P.a_i((16711680&K.B(a,!1).z.a)>>>16,(65280&K.B(a,!1).z.a)>>>8,(255&K.B(a,!1).z.a)>>>0,0)],[P.q]),C.o3,t,C.es),t,C.L),t,t,t,t,t,t),t))],q),C.w,C.D,C.a7)
+u=T.ce(H.d([T.bP(new T.fz(!0,t,M.a_(t,t,t,t,S.co(t,t,t,t,T.Gl(C.o3,H.d([K.B(a,!1).z,P.a_i((16711680&K.B(a,!1).z.a)>>>16,(65280&K.B(a,!1).z.a)>>>8,(255&K.B(a,!1).z.a)>>>0,0)],[P.q]),C.o6,t,C.es),t,C.L),t,t,t,t,t,t),t))],q),C.w,C.D,C.a7)
 return M.a_(t,T.dR(C.aL,H.d([r,u,new T.by(C.cx,T.ba(H.d([L.ab("Published \nArticles",t,t,t,t,A.ae(t,t,t,t,t,t,t,t,"Comfortaa",t,t,this.e?K.B(a,!1).F.c.r:K.B(a,!1).F.d.r,t,C.aj,t,t,!0,t,t,t,t,t,t),t)],q),C.bn,C.bf),t)],q),C.aJ,C.az),t,t,t,t,t,t,t,t,t)},
 $aN:function(){return[T.qL]}}
 T.P5.prototype={
@@ -47327,7 +47327,7 @@ this.HZ()},
 H:function(a){var u,t=null
 this.d.bH(0)
 u=[N.a2]
-return M.a_(t,T.dR(C.aL,H.d([T.ba(H.d([T.bP(new T.dJ(0.75,!1,U.c_("images/about_2.jpg",C.o6,C.T,C.bJ,t,t),t))],u),C.bP,C.D),T.ce(H.d([T.bP(M.a_(t,t,t,t,S.co(t,t,t,t,T.Gl(new K.bk(0,1),H.d([K.B(a,!1).r,C.a3],[P.q]),new K.bk(0,0),t,C.es),t,C.L),t,t,t,t,t,t))],u),C.w,C.D,C.a7),K.fi(this.d,new Y.RB(this),T.o_(t,t,C.aR,!0,t,Q.bJ(H.d([Q.bJ(t,A.ae(t,t,C.p,t,t,t,t,t,"Comfortaa",t,t,K.B(a,!1).F.d.r,t,C.aj,t,t,!0,t,t,t,t,t,t),"Muhammad Saeed")],[G.eK]),A.ae(t,t,C.ig,t,t,t,t,t,"OpenSans",t,t,K.B(a,!1).F.d.r,t,K.B(a,!1).F.d.x,t,t,!0,t,t,t,t,t,t),"Hey!! This is "),C.cm,t,1,C.ae))],u),C.aJ,C.az),t,t,t,t,t,t,t,t,t)},
+return M.a_(t,T.dR(C.aL,H.d([T.ba(H.d([T.bP(new T.dJ(0.75,!1,U.c_("images/about_2.jpg",C.o5,C.T,C.bJ,t,t),t))],u),C.bP,C.D),T.ce(H.d([T.bP(M.a_(t,t,t,t,S.co(t,t,t,t,T.Gl(new K.bk(0,1),H.d([K.B(a,!1).r,C.a3],[P.q]),new K.bk(0,0),t,C.es),t,C.L),t,t,t,t,t,t))],u),C.w,C.D,C.a7),K.fi(this.d,new Y.RB(this),T.o_(t,t,C.aR,!0,t,Q.bJ(H.d([Q.bJ(t,A.ae(t,t,C.p,t,t,t,t,t,"Comfortaa",t,t,K.B(a,!1).F.d.r,t,C.aj,t,t,!0,t,t,t,t,t,t),"Muhammad Saeed")],[G.eK]),A.ae(t,t,C.ig,t,t,t,t,t,"OpenSans",t,t,K.B(a,!1).F.d.r,t,K.B(a,!1).F.d.x,t,t,!0,t,t,t,t,t,t),"Hey!! This is "),C.cm,t,1,C.ae))],u),C.aJ,C.az),t,t,t,t,t,t,t,t,t)},
 $aN:function(){return[Y.t9]}}
 Y.RB.prototype={
 $2:function(a,b){var u=null,t=this.a.d.y
@@ -47353,18 +47353,18 @@ at:function(){var u=this
 u.bo()
 if(F.bd(u.c,!1).a.a>850)u.x=!0
 else u.x=!1},
-H:function(a){var u,t,s,r,q=this,p=null,o=q.e,n=o.L$
-n.b=!0
-n.a.push(q.gDj())
-n=q.x?p:E.As(p,!0,p,p,!0,p,q.vY())
-u=q.x?p:new Z.CX(M.a_(p,B.Gy(H.d([T.ba(q.vP(),C.w,C.D)],[N.a2]),C.k),p,p,p,p,p,p,p,p,p),p)
-t=K.B(a,!1).c
-if(q.x){s=P.bO(0,300)
-r=[O.dA]
-r=S.co(p,p,q.r?H.d([new O.dA(0,C.pf,new P.n(0,5),5)],r):H.d([],r),p,p,p,C.L)
-s=G.XG(M.fD(C.K,!0,T.ce(H.d([q.vY(),M.a_(p,T.ce(q.vP(),C.w,C.D,C.a7),p,p,p,p,p,p,p,p,p)],[N.a2]),C.w,C.e7,C.a7),C.a9,p,0,p,p,p,C.aX),p,C.bo,r,s,80)}else s=C.bI
-r=P.bO(0,400)
-return M.L1(n,M.a_(p,T.ba(H.d([s,T.bP(G.XG(new D.nM(C.k,o,new L.m9(p),!1,new F.Rq(q),G.a0O(new F.Rr(q),!0,!0,!0,7),C.a5,p),p,C.a2,p,r,p))],[N.a2]),C.w,C.D),t,p,p,p,p,p,p,p,p),p,u,p)},
+H:function(a){var u,t,s,r=this,q=null,p=r.e,o=p.L$
+o.b=!0
+o.a.push(r.gDj())
+o=r.x?q:E.As(q,!0,q,q,!0,q,r.vY())
+u=r.x?q:new Z.CX(M.a_(q,B.Gy(H.d([T.ba(r.vP(),C.w,C.D)],[N.a2]),C.k),q,q,q,q,q,q,q,q,q),q)
+if(r.x){t=P.bO(0,300)
+s=[O.dA]
+s=r.r?H.d([new O.dA(0,C.pf,new P.n(0,5),5)],s):H.d([],s)
+s=S.co(q,q,s,K.B(a,!1).f,q,q,C.L)
+t=G.XG(M.fD(C.K,!0,T.ce(H.d([r.vY(),M.a_(q,T.ce(r.vP(),C.w,C.D,C.a7),q,q,q,q,q,q,q,q,q)],[N.a2]),C.w,C.e7,C.a7),C.a9,q,0,q,q,q,C.aX),q,C.bo,s,t,80)}else t=C.bI
+s=P.bO(0,400)
+return M.L1(o,M.a_(q,T.ba(H.d([t,T.bP(G.XG(new D.nM(C.k,p,new L.m9(q),!1,new F.Rq(r),G.a0O(new F.Rr(r),!0,!0,!0,7),C.a5,q),q,C.a2,q,s,q))],[N.a2]),C.w,C.D),q,q,q,q,q,q,q,q,q),q,u,q)},
 vY:function(){var u=null,t="Caveat",s=A.ae(u,u,K.B(this.c,!1).ab.y.b,u,u,u,u,u,u,u,u,u,u,u,u,u,!0,u,u,u,u,u,u)
 return M.a_(u,T.o_(u,u,C.aR,!0,u,Q.bJ(H.d([Q.bJ(u,A.ae(u,u,u,u,u,u,u,u,t,u,u,32,u,C.aj,u,u,!0,u,u,u,u,u,u),"M"),Q.bJ(u,A.ae(u,u,u,u,u,u,u,u,t,u,u,20,u,u,u,u,!0,u,u,u,u,u,u),"uhammad "),Q.bJ(u,A.ae(u,u,u,u,u,u,u,u,t,u,u,32,u,C.aj,u,u,!0,u,u,u,u,u,u),"S"),Q.bJ(u,A.ae(u,u,u,u,u,u,u,u,t,u,u,20,u,u,u,u,!0,u,u,u,u,u,u),"aeed "),Q.bJ(u,A.ae(u,u,u,u,u,u,u,u,t,u,u,32,u,C.aj,u,u,!0,u,u,u,u,u,u),"Y"),Q.bJ(u,A.ae(u,u,u,u,u,u,u,u,t,u,u,20,u,u,u,u,!0,u,u,u,u,u,u),"ounus")],[G.eK]),s,u),C.aK,u,1,C.ae),u,u,u,u,u,new V.V(16,0,0,0),u,u,u)},
 vP:function(){var u=this,t=null,s=u.d
@@ -48933,11 +48933,11 @@ C.u=new K.bk(0,0)
 C.o1=new K.bk(0,1)
 C.kh=new K.bk(0,-1)
 C.o2=new K.bk(1,0)
-C.o3=new K.bk(-0.1,0)
-C.o4=new K.bk(-0.95,0)
+C.o3=new K.bk(-0.95,0)
 C.QN=new K.bk(-1,0)
-C.o5=new K.bk(-1,-1)
-C.o6=new K.bk(0,-0.25)
+C.o4=new K.bk(-1,-1)
+C.o5=new K.bk(0,-0.25)
+C.o6=new K.bk(0.1,0)
 C.ki=new L.qx(null)
 C.i0=new G.qG("AnimationBehavior.normal")
 C.i1=new G.qG("AnimationBehavior.preserve")
