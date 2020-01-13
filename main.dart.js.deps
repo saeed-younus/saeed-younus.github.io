@@ -1,4 +1,4 @@
-file:///C:/flutter_projects/web_portfolio/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
+file:///C:/flutter_projects/web_portfolio/.dart_tool/flutter_build/51d98d1fd8595ef470df7de140474d6b/main.dart
 file:///C:/flutter_projects/web_portfolio/.packages
 file:///C:/flutter_projects/web_portfolio/lib/about.dart
 file:///C:/flutter_projects/web_portfolio/lib/article.dart
@@ -220,6 +220,7 @@ file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/assets.dart
 file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/bitmap_canvas.dart
 file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/browser_detection.dart
 file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/browser_location.dart
+file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/canvas_pool.dart
 file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/color_filter.dart
 file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/canvas.dart
 file:///C:/sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/canvas_kit_canvas.dart
@@ -404,6 +405,7 @@ file:///C:/sdk/flutter/packages/flutter/lib/src/foundation/platform.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/foundation/print.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/foundation/profile.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/foundation/serialization.dart
+file:///C:/sdk/flutter/packages/flutter/lib/src/foundation/stack_frame.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/foundation/synchronous_future.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/foundation/unicode.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/gestures/arena.dart
@@ -763,6 +765,7 @@ file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/shortcuts.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/single_child_scroll_view.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/size_changed_layout_notifier.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/sliver.dart
+file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/sliver_fill.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/sliver_layout_builder.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/sliver_persistent_header.dart
 file:///C:/sdk/flutter/packages/flutter/lib/src/widgets/sliver_prototype_extent_list.dart
