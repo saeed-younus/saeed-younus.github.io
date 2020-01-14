@@ -68,7 +68,7 @@ const RESOURCES = {
 "/assets\LICENSE": "3971562675b5c0f5eb05c037f92cebe0",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "9a62a954b81a1ad45a58b9bcea89b50b",
 "/index.html": "2676f4bae3a815cb3e8583e88663f7ae",
-"/main.dart.js": "df2ae5638da94536ca4808053fa8f5df",
+"/main.dart.js": "1d91273493f16af54b9874c208b51921",
 "/main.dart.js.deps": "a2603ccd7de2f5899e08d7f3edf997c9"
 };
 
